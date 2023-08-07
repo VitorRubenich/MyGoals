@@ -8,7 +8,7 @@ import androidx.fragment.app.FragmentManager;
 
 import dev.rubenichvitor.mygoals.R;
 
-public class FragmentHelper {
+public class    FragmentHelper {
     private FragmentHelper(){
 
     }
